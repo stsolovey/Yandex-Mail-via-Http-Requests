@@ -20,4 +20,3 @@ The goal of the project is to complete a task that meets the requirements:
 | ------------- |:-------------:| 
 | email:      | st.solovey@gmail.com |
 | telegram      | t.me/duckever      |   
-| zebra stripes | are neat      |    
