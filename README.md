@@ -10,7 +10,7 @@ Install python, download this package (libraries and dependencies are included) 
 
 *login* and *password* is your Yandex Mail credentials, *to_emails* assumes the destination address of emails when sending the contents of the drafts folder. 
 
-Keep in mind that sending drafts does not automatically delete if.
+Keep in mind that sending drafts does not automatically delete it.
 
 You can find usage example in **usage_example.py** folder.
 
