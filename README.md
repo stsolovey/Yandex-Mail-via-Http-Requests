@@ -12,7 +12,7 @@ Install python, download this package (libraries and dependencies are included) 
 
 Keep in mind that sending drafts does not automatically delete it.
 
-You can find usage example in **usage_example.py** folder.
+You can find usage examples in **usage_example.py** file.
 
 ### Project objective
 
