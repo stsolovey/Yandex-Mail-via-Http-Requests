@@ -17,7 +17,7 @@ You can find usage examples in **usage_example.py** file.
 ### Project objective
 
 The goal of the project is to complete a task that meets the requirements: 
-1. reading emails on Yandex via http.
+1. reading Yandex emails via http.
 2. sending emails from the draft.
 
 | contacts        | Stepan Solovey |
