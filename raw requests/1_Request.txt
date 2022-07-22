@@ -1,0 +1,18 @@
+GET https://passport.yandex.ru/auth?origin=home_yandexid&retpath=https%3A%2F%2Fyandex.ru&backpath=https%3A%2F%2Fyandex.ru HTTP/1.1
+Host: passport.yandex.ru
+Connection: keep-alive
+sec-ch-ua: ".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://yandex.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: mda=0; yandex_gid=10741; yandexuid=6427751091658391021; yuidss=6427751091658391021; is_gdpr=0; is_gdpr_b=CNiMXhDLfygC; i=UW12Bl7aopvmnIwRhgkj35RLJmlOdv+AD+e5lNCu91to+HfwaOTA+oz2EnFfllH1QNivOpeyETwSNDn/ValdeuWgs5c=; yabs-frequency=/5/0000000000000000/8krF10oancwWHoC0/; my=YwA=; _yasc=cAdlzUtPyCAnHi3m33ZzsFjYgcr2UA7zZRmlsaaQAUdr3LcruszQWFi/; yp=1658392821.rnwcst.1#1660983021.ygu.1
+

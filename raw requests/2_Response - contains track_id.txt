@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 21 Jul 2022 08:10:30 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 324
+Connection: keep-alive
+Keep-Alive: timeout=120
+Surrogate-Control: no-store
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate
+Pragma: no-cache
+Expires: 0
+Content-Security-Policy: default-src 'none';style-src 'self' yastatic.net 'unsafe-inline' 'unsafe-eval' s3.mds.yandex.net s3.mdst.yandex.net;script-src 'self' yastatic.net mc.admetrica.ru mc.yandex.ru chat.s3.yandex.net api-maps.yandex.ru suggest-maps.yandex.net export.yandex.ru 'unsafe-eval' 'unsafe-inline' 'nonce-8314ac9e-d48e-4c5a-954d-1bddbb446f74' https://yastatic.net/s3/frontend/butterfly/latest/butterfly.js;img-src 'self' yastatic.net https://ysa-static.passport.yandex.ru https://ysa-static.passport.yandex.net yandex.st data: mc.admetrica.ru mc.yandex.ru api-maps.yandex.ru *.captcha.yandex.net s3.mds.yandex.net s3.mdst.yandex.net avatars.mds.yandex.net avatars.mdst.yandex.net clck.yandex.ru *.maps.yandex.net yapic.yandex.ru img.yandex.ru static-maps.yandex.ru https://video-tub-ru.yandex.net https://img0-tub-ru.yandex.net https://img1-tub-ru.yandex.net https://img2-tub-ru.yandex.net https://img3-tub-ru.yandex.net blob:  mc.webvisor.com mc.webvisor.org https://downloader.disk.yandex.ru;font-src 'self' data: yastatic.net;object-src yastatic.net;media-src *.captcha.yandex.net data:;connect-src mail.yandex.ru 'self' mc.admetrica.ru mc.yandex.ru trust.yandex.ru trust.yandex.com suggest-maps.yandex.net mc.webvisor.com mc.webvisor.org yandex.ru api.passport.yandex.ru *.disk.yandex.net;frame-ancestors 'self';frame-src 'self' yandex.st s4.money.yandex.net https://yandex.ru/chat split.yandex.ru yandex.ru null pass.yandex.ru passport.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru magic.passport.yandex.ru https://yandex.ru/forms https://forms.yandex.ru/;child-src 'self' yandex.st yandex.ru null passport.yandex.ru pass.yandex.ru https://trust.yandex.ru blob: mc.yandex.ru;report-uri https://csp.yandex.net/csp?from=passport&project=passport&yandex_login=&yandexuid=6427751091658391021;manifest-src 'self'
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-DNS-Prefetch-Control: off
+X-XSS-Protection: 0
+Referrer-Policy: origin
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+ETag: W/"144-By78D1KtKToNlNQC0sDw9O5pSDU"
+Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+
+{"primary_alias_type":1,"magic_link_email":"test04072022@yandex.ru","csrf_token":"76ad286bfa2034d1a6f8c0a44f5b3aec","use_new_suggest_by_phone":false,"track_id":"971e2545e8514d4ffd1f62d0d579d76949","can_authorize":true,"status":"ok","preferred_auth_method":"password","auth_methods":["password","magic_link","magic_x_token"]}
