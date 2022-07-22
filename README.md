@@ -13,7 +13,7 @@ You can find usage example in **usage_example.py** folder.
 ### Project objective
 
 The goal of the project is to complete a task that meets the requirements: 
-1. Read all emails on Yandex via http.
+1. read all emails on Yandex via http.
 2. sending all emails from the draft.
 
 | contacts        | Stepan Solovey |
