@@ -1,4 +1,4 @@
-### Login to the Yandex Mail, return the list of emails and send emails from drafts, using http requests.
+### Working with Yandex Mail using http requests.
 
 This code works with [Yandex Mail](https://mail.yandex.ru/ "Yandex Mail"). 
 
