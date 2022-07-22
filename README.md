@@ -14,7 +14,7 @@ Install python, download this package (libraries and dependencies are included) 
 
 **config.py** contains *login*, *password* and *to_mail* variables, substitute your values. *login* and *password* is your Yandex Mail credentials, *to_emails* assumes the destination address of emails when sending the contents of the drafts folder. 
 
-You can find usage examples in **usage_example.py** file. Make sure that your mailbox contains emails, including the drafts folder. Keep in mind that sending drafts does not automatically delete it.
+You can find usage examples in **usage_example.py** file. Make sure that your mailbox contains emails, including the drafts folder. Keep in mind that sending drafts does not automatically remove it.
 
 ### Project objective
 
