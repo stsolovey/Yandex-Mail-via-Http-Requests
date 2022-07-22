@@ -22,6 +22,8 @@ The goal of the project is to complete a task that meets the requirements:
 1. reading Yandex emails via http.
 2. sending emails from the draft.
 
+### Originator
+
 | contacts        | Stepan Solovey |
 | ------------- |-------------:| 
 | email:      | st.solovey@gmail.com |
