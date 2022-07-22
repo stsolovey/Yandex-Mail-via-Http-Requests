@@ -28,7 +28,13 @@
             print(item)
 
       #Send Drafts
-      ymhp.sendDrafts(to_mail)
+      res = ymhp.sendDrafts(to_mail)
+      
+      print("\n\n\n############################################\n\n\n")
+      
+      for i in res:
+            print(i)
+
 
 ### Output
 
@@ -53,4 +59,23 @@
       {'dateTime': datetime.datetime(2022, 6, 4, 18, 53), 'fromName': 'Команда Яндекс.Почты', 'fromEmail': 'Команда Яндекс.Почты <hello@yandex-team.ru>', 'toName': '"test04072022@yandex.ru"', 'toEmail': '"test04072022@yandex.ru" <test04072022@yandex.ru>', 'subject': 'Как убедиться, что письмо доставлено', 'firstline': 'Мы подготовили несколько писем с полезными советами, которые помогут вам освоиться в новом ящике. Для начала расскажем про отправку писем. Послать письмо — дело нехитрое. Но иногда возникает сомнение, дошло'}
       {'dateTime': datetime.datetime(2022, 6, 4, 15, 34), 'fromName': 'Stepan Solovey', 'fromEmail': 'Stepan Solovey <st.solovey@gmail.com>', 'toName': '"test04072022@yandex.ru"', 'toEmail': '"test04072022@yandex.ru" <test04072022@yandex.ru>', 'subject': 'Письмо2', 'firstline': 'Тело письма 2'}
       {'dateTime': datetime.datetime(2022, 6, 4, 15, 33), 'fromName': 'Stepan Solovey', 'fromEmail': 'Stepan Solovey <st.solovey@gmail.com>', 'toName': '"test04072022@yandex.ru"', 'toEmail': '"test04072022@yandex.ru" <test04072022@yandex.ru>', 'subject': 'Тема письма', 'firstline': 'Текст вложения'}
+      
+      
+      
+      
+      ############################################
+      
+      
+      
+      {'message_id': '<524411658477128@mail.yandex.ru>', '$sendbernar': {'status': 'ok'}, 'status': 'ok'}
+      {'message_id': '<522541658477125@mail.yandex.ru>', '$sendbernar': {'status': 'ok'}, 'status': 'ok'}
+      {'message_id': '<473931658477123@mail.yandex.ru>', '$sendbernar': {'status': 'ok'}, 'status': 'ok'}
+      {'message_id': '<519941658477120@mail.yandex.ru>', '$sendbernar': {'status': 'ok'}, 'status': 'ok'}
+      {'message_id': '<524111658477118@mail.yandex.ru>', '$sendbernar': {'status': 'ok'}, 'status': 'ok'}
+      {'message_id': '<27151658477115@mail.yandex.ru>', '$sendbernar': {'status': 'ok'}, 'status': 'ok'}
+      {'message_id': '<473141658477113@mail.yandex.ru>', '$sendbernar': {'status': 'ok'}, 'status': 'ok'}
+      {'message_id': '<471021658477110@mail.yandex.ru>', '$sendbernar': {'status': 'ok'}, 'status': 'ok'}
+      {'message_id': '<462111658477107@mail.yandex.ru>', '$sendbernar': {'status': 'ok'}, 'status': 'ok'}
+      {'message_id': '<484341658477105@mail.yandex.ru>', '$sendbernar': {'status': 'ok'}, 'status': 'ok'}      
+      
       """
