@@ -30,7 +30,7 @@
       #Send Drafts
       res = ymhp.sendDrafts(to_mail)
       
-      print("\n\n\n############################################\n\n\n")
+      print("\n\n\n################### drafts have been sent #########################\n\n\n")
       
       for i in res:
             print(i)
@@ -63,7 +63,7 @@
       
       
       
-      ############################################
+      ################### drafts have been sent #########################
       
       
       
