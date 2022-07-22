@@ -1,6 +1,12 @@
 ### Login to the Yandex Mail, return the list of emails and send emails from drafts, using http requests.
 
-This code works with [Yandex Mail](https://mail.yandex.ru/ "Yandex Mail"). It reads incoming emails and sends mails from drafts folder.
+This code works with [Yandex Mail](https://mail.yandex.ru/ "Yandex Mail"). 
+
+It reads incoming emails and sends mails from drafts folder.
+
+It works properly *at the current* (2022.07.22) moment. 
+
+The **raw requests** folder contains sourse http requests, except sending draft request (will be added later).
 
 ### How to use?
 
