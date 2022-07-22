@@ -17,6 +17,6 @@ The goal of the project is to complete a task that meets the requirements:
 2. sending all emails from the draft.
 
 | contacts        | Stepan Solovey |
-| ------------- |:-------------:| 
+| ------------- |-------------:| 
 | email:      | st.solovey@gmail.com |
-| telegram      | t.me/duckever      |   
+| telegram      | [t.me/duckever](https://t.me/duckever)      |   
