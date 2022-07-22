@@ -1,4 +1,4 @@
-### Yandex-Mail-via-Http-Requests
+### Login to the mail, return the list of emails and send emails from drafts, using http requests.
 
 ### tested on a mailbox with five incoming emails and a non-empty folder with drafts (no more than 10)
 
