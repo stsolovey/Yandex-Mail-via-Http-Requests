@@ -24,7 +24,7 @@ Set-Cookie: sessguard=1.1658391034.1658391034443:svb5WQ:49..3.500:27499.BxUx13WV
 Set-Cookie: yp=1658392821.rnwcst.1#1660983021.ygu.1#1973751034.udn.cDp0ZXN0MDQwNzIwMjI%3D; Domain=.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; Path=/
 Set-Cookie: ys=udn.cDp0ZXN0MDQwNzIwMjI%3D; Domain=.yandex.ru; Secure; Path=/; SameSite=None
 Set-Cookie: L=URsJXQV8RlZaS0FDR0YDe2x5fHYOcHFoBjA2EGBTBARkQGVZ.1658391034.15045.387046.38d8f190c8bd97894fbf724464fcbd2b; Domain=.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Path=/
-Set-Cookie: yandex_login=test04072022; Domain=.yandex.ru; Max-Age=31536000; Secure; Path=/; SameSite=None
+Set-Cookie: yandex_login=example20220722; Domain=.yandex.ru; Max-Age=31536000; Secure; Path=/; SameSite=None
 Set-Cookie: lah=2:1721463034.10015621.6VAfzDzcm3ID19p0.vGOVG4OEf3H6P3t8nhEg6ROgFSCt3CDWgfWtbbdRFsK-UtTKNaebJ41HBA.zMqZe5MHFeBdeDkuIiP1iQ; Domain=.passport.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; HttpOnly; Path=/; SameSite=None
 Set-Cookie: mda2_beacon=1658391034466; Domain=.passport.yandex.ru; Expires=Tue, 19 Jan 2038 03:14:07 GMT; Secure; Path=/; SameSite=None
 X-Default-UID: 1655816735

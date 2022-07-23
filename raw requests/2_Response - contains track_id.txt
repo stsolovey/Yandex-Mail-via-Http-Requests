@@ -21,4 +21,4 @@ P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE 
 ETag: W/"144-By78D1KtKToNlNQC0sDw9O5pSDU"
 Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
 
-{"primary_alias_type":1,"magic_link_email":"test04072022@yandex.ru","csrf_token":"76ad286bfa2034d1a6f8c0a44f5b3aec","use_new_suggest_by_phone":false,"track_id":"971e2545e8514d4ffd1f62d0d579d76949","can_authorize":true,"status":"ok","preferred_auth_method":"password","auth_methods":["password","magic_link","magic_x_token"]}
+{"primary_alias_type":1,"magic_link_email":"example20220722@yandex.ru","csrf_token":"76ad286bfa2034d1a6f8c0a44f5b3aec","use_new_suggest_by_phone":false,"track_id":"971e2545e8514d4ffd1f62d0d579d76949","can_authorize":true,"status":"ok","preferred_auth_method":"password","auth_methods":["password","magic_link","magic_x_token"]}
